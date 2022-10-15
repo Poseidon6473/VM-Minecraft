@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2022-10-12 00:17:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
       "has_chiseled_quartz_block": "2022-10-10 01:33:39 +0000"
@@ -167,11 +173,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2022-10-12 00:25:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs": {
     "criteria": {
       "has_waxed_oxidized_cut_copper": "2022-10-09 21:33:00 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "porkchop": "2022-10-12 00:17:33 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
@@ -251,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2022-10-12 00:17:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting": {
     "criteria": {
       "has_oxidized_copper": "2022-10-09 19:27:26 +0000"
@@ -272,6 +296,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2022-10-09 20:35:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2022-10-12 00:20:17 +0000"
     },
     "done": true
   },
@@ -350,10 +380,17 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:sunflower_plains": "2022-10-09 20:07:15 +0000",
+      "minecraft:birch_forest": "2022-10-12 00:30:07 +0000",
+      "minecraft:bamboo_jungle": "2022-10-12 00:27:02 +0000",
+      "minecraft:beach": "2022-10-12 00:16:10 +0000",
+      "minecraft:sparse_jungle": "2022-10-12 00:21:24 +0000",
       "minecraft:river": "2022-10-09 21:59:27 +0000",
       "minecraft:lukewarm_ocean": "2022-10-10 02:14:31 +0000",
       "minecraft:stony_shore": "2022-10-10 02:14:25 +0000",
+      "minecraft:dripstone_caves": "2022-10-12 00:28:03 +0000",
+      "minecraft:lush_caves": "2022-10-12 00:27:09 +0000",
       "minecraft:ocean": "2022-10-10 02:14:28 +0000",
+      "minecraft:jungle": "2022-10-12 00:26:46 +0000",
       "minecraft:flower_forest": "2022-10-10 02:12:52 +0000",
       "minecraft:meadow": "2022-10-09 19:58:46 +0000",
       "minecraft:plains": "2022-10-09 19:25:06 +0000"
@@ -390,6 +427,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2022-10-12 00:17:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2022-10-10 01:39:05 +0000"
@@ -399,6 +442,12 @@
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_chiseled_quartz_block": "2022-10-10 01:33:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2022-10-12 00:25:02 +0000"
     },
     "done": true
   },
@@ -492,6 +541,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2022-10-12 00:25:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2022-10-09 20:05:48 +0000",
@@ -521,6 +576,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_nugget": "2022-10-09 20:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2022-10-12 00:20:17 +0000"
     },
     "done": true
   },
@@ -554,6 +615,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2022-10-12 00:20:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_lantern": {
     "criteria": {
       "has_soul_torch": "2022-10-09 21:28:20 +0000"
@@ -581,6 +648,12 @@
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2022-10-09 21:01:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2022-10-12 00:17:26 +0000"
     },
     "done": true
   },

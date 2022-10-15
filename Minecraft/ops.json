@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "35bc39dc-2ec3-47f8-8a8e-a465a521f5b9",
+    "name": "Chaos_Sierron",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "8a2c95aa-9989-4f2b-a341-44ecad73f445",
     "name": "CptCarnivore",
     "level": 4,
